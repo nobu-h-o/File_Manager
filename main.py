@@ -3,8 +3,6 @@ import shutil as sh
 import tkinter as tk
 from tkinter import messagebox
 
-#sample commit
-
 def submit():
     source_directory = entry.get()
     try:
